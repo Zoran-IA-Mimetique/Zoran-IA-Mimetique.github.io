@@ -1,0 +1,13 @@
+title: "Zoran aSiM — Zoran-IA-Mimetique"
+description: "Organisation GitHub officielle du projet Zoran aSiM (Artificial Super-Intelligence Mimétique). Linux de l'intelligence mimétique : mémoire fractale, ΔM11.3, Glyphnet, PolyResonator, EthicChain."
+timezone: "Europe/Paris"
+markdown: kramdown
+kramdown:
+  input: GFM
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: fr
+sass:
+  sass_dir: assets/css
